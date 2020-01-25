@@ -1,11 +1,11 @@
 ---
 
-title: Title
+title: Cartographic Visualization with Altair
 
 keywords: fastai
 sidebar: home_sidebar
 
-summary: "summary"
+summary: "In this notebook, we will introduce the basics of creating maps and visualizing spatial data with Altair"
 ---
 <!--
 
