@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# gem "jekyll-theme-basically-basic", path: "../"
+gem "jekyll-theme-basically-basic"
 # To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
