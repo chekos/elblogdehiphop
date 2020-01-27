@@ -42,7 +42,7 @@ google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 # theme: minima
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+theme: "jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
   - jekyll-gist
