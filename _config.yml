@@ -42,7 +42,7 @@ google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 # theme: minima
-theme: "jekyll-theme-basically-basic"
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -50,6 +50,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-remote-theme
 feed:
   path: atom.xml
 
@@ -85,6 +86,7 @@ defaults:
       layout: post
       read_time: true
 
-# https://github.com/jekyll/jekyll/issues/3900
+# Sass/SCSS
 sass:
-    sass_dir: ./_sass
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
