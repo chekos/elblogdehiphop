@@ -1,3 +1,6 @@
+---
+layout: home
+---
 Este es Lorem Ipsum pero mexicano creado usando la herramienta https://ignaciochavez.com/projects/lorempaisum/
 
 lonche chilpayate. desmadre ándale pues. ahi se va cafre. teporocho aventado. chorro aventón. mochada peor es nada. morro pinche. chorro cuete. güero chafeaste. mayate cura. colgar los tenis raite. jetón sacatón. pingo rollo. culero agarra la onda. tilico rola. cura metiche. movida despapaye. embicharse empedarse. buenota aventado. cagado feliz como una lombriz. cabrón bombo. zotaco carrilla. chale me sacaste un pedo.
