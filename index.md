@@ -1,5 +1,6 @@
 ---
 layout: home
+title: elblog
 ---
 Este es Lorem Ipsum pero mexicano creado usando la herramienta https://ignaciochavez.com/projects/lorempaisum/
 
